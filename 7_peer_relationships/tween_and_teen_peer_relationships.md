@@ -1,0 +1,11 @@
+## Tween and teen peer relationships {#tween-and-teen-peer-relationships}
+
+### Tween peer relationships {#tween-peer-relationships}
+
+Around the tween years of ages 7-12, youth tend to shift their relationship focus to social interactions with friends. As the amount of time that they spend with their friends increases, time spent with their parents begins to decrease. Initially, many tweens tend to form friendships with those who are similar to them. For instance, tweens tend to become friends with those of the same gender. At this time, friends are mostly instrumental; a friend is someone to get together with over shared activities.
+
+During the tween years, cliques begin to emerge. As the clique provides identification and validation, it begins replacing parents as the main authority figure. Group membership within a clique becomes important to tweens to form their identity. A popularity hierarchy starts to develop as tweens begin to compare themselves based to social standards. Around age 12, social aggression starts to surface. Bullying begins as children become concerned with defining who is “in or out” of the group. The attitudes, beliefs, and values of the group become tied to membership in their clique.
+
+### Teen peer relationships {#teen-peer-relationships}
+
+During the teen years around the ages of 12-18, young people begin to spend more time with peers than parents. Through peer interaction, teens learn about themselves and who they are. As a young person reaches later adolescence, the concept of a friend becomes less instrumental and more about connecting with someone who shares their values. Adolescents’ best friendships, or “chumships”, become highly influential (Sullivan, 1953). Intimacy and self-disclosure are central features of these types of relationships. In general, girls develop these chumships earlier than boys, and they tend to have a greater degree of intimacy. Respect, trust, symmetrical reciprocity become central to teen friendships. In addition to cliques, the abstract concepts of the “crowd”, and which one a teen fits into, starts to emerge. Many of these crowds are imposed by stereotypes such as the “Jocks”, “Geeks”, and “Goths”. As teens get older, their ties to cliques and crowds may begin to loosen and they experience more freedom to move beyond certain groups.

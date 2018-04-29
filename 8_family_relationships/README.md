@@ -1,0 +1,3 @@
+# 8\. Family relationships {#8-family-relationships}
+
+In this section, we examine the changing nature of parent-teen relationships. The concept of individuation will be introduced and used to explore adolescents’ process of developing a sense of autonomy while maintaining connection to their parents. Two broad themes will be explored in relation to family relationships and digital media: (1) technology’s effect on family dynamics and (2) appropriate parental mediation of children’s technology use (Katie’s module, 2017).

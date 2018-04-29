@@ -1,0 +1,3 @@
+# 3\. Youth and digital media habits {#3-youth-and-digital-media-habits}
+
+In this section, we explore digital media use among tweens and teens to understand their patterns of behavior in the digital age. You will discover key findings from recent reports and surveys that summarize the media use of teens. We also present the research on both the positive and negative effects of a very popular form of media use: video game playing. To that end, we discuss the innovations in game design and platforms that may increase opportunities for learning and social interaction among teens.

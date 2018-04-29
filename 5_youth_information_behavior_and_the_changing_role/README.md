@@ -1,0 +1,3 @@
+# 5\. Youth information behavior and the changing role of libraries {#5-youth-information-behavior-and-the-changing-role-of-libraries}
+
+In this section, we explore librarians’ changing role in supporting youth’s online information behavior. As a focus, we examine the information seeking practices of teens and tweens by connecting their behavior with theories of child development. We also include theory and research to identify and promote effective information seeking strategies among teens and tweens (Katie’s lecture, 2017)
