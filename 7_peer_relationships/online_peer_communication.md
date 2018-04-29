@@ -12,9 +12,12 @@ On the right hand column of this chart, we outline common online communication b
 
 ### More or less connected? {#more-or-less-connected}
 
-**#BEINGTHIRTEEN**
+<div class="table-format case-study"><span class="title"><h5>#BEINGTHIRTEEN</h5></span></div>
 
-[embed video: [#BeingThirteen](https://www.youtube.com/watch?v=t-9LtTtkg04).]
+<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/9LtTtkg04">
+</iframe>
+
+</div>
 
 ### **What types of pressures and peer conflicts do teens face when communicating online?** {#what-types-of-pressures-and-peer-conflicts-do-teens-face-when-communicating-online}
 

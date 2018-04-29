@@ -12,7 +12,5 @@ In Erikson’s stage of adolescence, self identity is a focus (Hetherington, Par
 
 Teens may grapple with the challenges of both &quot;fitting in&quot; and exploring different identities. An identity crisis may occur when he has trouble deciding his social role, who he is, or what he wants to be. According to Erikson, youth who successfully overcome this crisis may develop a clear understanding of their own identity while freely sharing who they are with others. Therefore, peers may play a large role in youth identity development.
 
-**ADDITIONAL RESOURCES**
-
-*   UW Institute for Learning &amp; Brain Sciences (I-LABS) child development training modules
-*   Harvard&#039;s Center on the Developing Child resource library
+<div class="table-format additional-resources"><span class="title"><h5>ADDITIONAL RESOURCES</h5></span>
+<ul><li>UW Institute for Learning &amp; Brain Sciences (I-LABS) child development training modules</li><li>Harvard&#039;s Center on the Developing Child resource library</li></ul></div>

@@ -25,10 +25,8 @@ Tweens and teens spend a lot of time playing mobile games, watching TV and video
 
 The Common Sense Media (2015) study also revealed a large “digital equity gap” as children in lower-income families are significantly less likely than their more affluent peers to live in homes with access to digital technologies(p.23). While digital media is used for reading, watching, playing, listening, communicating, and creating, few teens (only 3%) are engaged in “content creation” or actually making things online (p.23). As such, content creation activities during digital media use may be an opportunity for youth librarians. Content creation might be included in programming such as interactive media teen book clubs or video blog creation workshops (Martin, 2015).
 
-**ADDITIONAL RESOURCES**
-
-*   Common Sense Media (2015) The Common Sense Census: Media use by tweens and teens. San Francisco: Common Sense Media.
-*   Lenhart, A. (2015). Teens, social media, and technology overview 2015\. Washington, DC: Pew Internet &amp; American Life Project.
+<div class="table-format additional-resources"><span class="title"><h5>ADDITIONAL RESOURCES</h5></span>
+<ul><li>Common Sense Media (2015) The Common Sense Census: Media use by tweens and teens. San Francisco: Common Sense Media.</li><li>Lenhart, A. (2015). Teens, social media, and technology overview 2015\. Washington, DC: Pew Internet &amp; American Life Project.</li></ul></div>
 
 ### References {#references}
 

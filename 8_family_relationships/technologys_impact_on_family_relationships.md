@@ -25,5 +25,3 @@ A few tips for parents in the digital age from the AAP include:
 In thinking back to our section on Bronfenbrenner’s ecological systems theory, it’s important to consider how technology may affect different mesosystems, or connections between environments like family and school or family and libraries. For example: What types of different messages are teens receiving from family, school, and libraries and how do they relate to one another?
 
 Consider the contexts that don’t involve teens directly like the parent’s workplace. With parents often tied to technology for work, is their attention now divided? Or does technology offer parents with greater freedom to work inside the home and be available more for teens? Digital and networked technologies and their use inside and outside the home offer families with distinct challenges. Consistent and realistic expectations may help families effectively manage their teens’ technology use (American Association of Pediatrics, 2016; Blackwell, Gardiner, &amp; Schoenebeck, 2016).
-
-###

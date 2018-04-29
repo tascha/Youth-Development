@@ -30,7 +30,7 @@ For young people on the autism spectrum, such online games as Minecraft may even
 
 ### Executive function and video games {#executive-function-and-video-games}
 
-[embed video: [http://www.ted.com/talks/daphne_bavelier_your_brain_on_video_games#373535](http://www.ted.com/talks/daphne_bavelier_your_brain_on_video_games)]
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/daphne_bavelier_your_brain_on_video_games" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 What is executive function and why is so important for youth development? Executive function refers to the mental processes that enable us to focus our attention, remember instructions, and to multitask successfully(Center on the Developing Child at Harvard University, 2011).
 
@@ -55,14 +55,10 @@ In contrast to the popular narrative that video games negatively affect attentio
 
 Check out this this video from Jane MacGonigal:
 
-[embed video: https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world]
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
 For decades, both researchers and the public have been engaged in an ongoing debate on whether violent video games can be linked to real world aggression. On one hand, a body of research has pointed to a relationship between violent video games and aggressive behavior. The [APA Task Force on Violent Media](http://www.apa.org/pi/families/violent-media.aspx) (2015) report provides a comprehensive review of research literature published between 2005 and 2013 that examined violent video game use. The report confirmed a link between playing violent video games and aggression. However, the group concludes that violent video games are just one of many risk factors that may lead to aggressive behavior. In addition, the report finds that not enough evidence exists to connect violent video game playing to criminal violence.
-
-Christopher J. Ferguson studies the sociology of media violence; Image source: http://christopher.ferguson.socialpsychology.org/
 
 On the other side of the debate, [Christopher J. Ferguson](http://www.stetson.edu/other/faculty/profiles/christopher-ferguson.php) (2015), a professor of psychology who studies the media effects of violent video games, points out a few problems with the findings in the APA report. First, much of the research focused on college students rather than young children or adolescents. He also notes the potential of “confirmation bias”, or the tendency for researchers to acknowledge only results or studies that align with their personal beliefs. Ferguson recommends that people remain skeptical of extreme viewpoints on either side of the debate—both the claims that expound the harms of video games as well as the benefits.
 
 Moreover, many studies on violent video games have not explored other variables such as the impact of a violent home environment. Another issue to consider is desensitization. Could long term exposure to violent content contribute a young person becoming desensitized to certain violent acts? Further, many video games on the market contain misogynistic content. How might these depictions of women affect they way young girls see themselves?(Katie’s lecture, 2017). For instance, the “Gamergate” controversy revealed shifts in gaming culture. For young women who identify as gamers, they may face an online community that is less than welcoming to women’s growing presence in the gaming culture and industry. These are all issues and open questions that researchers have yet to fully explore.
-
-###

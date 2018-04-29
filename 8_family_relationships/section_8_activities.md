@@ -8,15 +8,5 @@
 
 ### 
 
-### 8A. Reflection {#8a-reflection}
 
-_What role can youth librarians play in alleviating parent-teen tensions surrounding technology?_
 
-### 8B. Test yourself {#8b-test-yourself}
-
-Which of the following is a characteristic of individuation?
-
-*   Dependence
-*   Conflict
-*   Authority
-*   Separation

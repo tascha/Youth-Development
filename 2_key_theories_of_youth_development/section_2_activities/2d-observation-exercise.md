@@ -1,0 +1,3 @@
+### 2D. Observation exercise {#2d-observation-exercise}
+
+Examine an individual or a group of young people and observe their digital media use through the lens of one or more of the theories we&#039;ve outlined (e.g., Bronfebrenner, Papert, Piaget, Vygotsky). Uncover the major themes you notice in their digital media usage. Make an informed assessment of the opportunities and challenges associated with a specific type of digital media use.

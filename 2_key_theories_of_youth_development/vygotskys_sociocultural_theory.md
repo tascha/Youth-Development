@@ -8,7 +8,7 @@ Soviet psychologist Lev Vygotsky (1896-1934) has had an enormous impact on the f
 
 Youth librarians we talked to describe the importance of fostering group and peer interaction. A youth librarian from a _______ library
 
-**_“I really like group tasks, I like breaking people up into teams, I love the idea of peer-mentoring... I think often times that&#039;s a great way to start building community.” - INTS-059_**
+>“I really like group tasks, I like breaking people up into teams, I love the idea of peer-mentoring... I think often times that&#039;s a great way to start building community.”<br/> -- INTS-059
 
 Other key ideas that Vygotsky developed include:
 
@@ -20,6 +20,7 @@ Vygotsky emphasized growth and development through collaboration. Through formal
 
 Out of scaffolding comes the idea of the Zone of proximal development (ZPD), or the “sweet spot” between the range of tasks that a young person can perform without scaffolding and what he can do with more support. For example, a teen might be struggling with learning how to code. By working with mentors or other adults and peers, she problem solves with the help of others. Through this support, she gains more confidence in her coding abilities. In this example, scaffolding might also come from other cognitive tools like online forums or web searches. When a young person is in the ZPD, providing them with some scaffolding, or assistance, may give them more motivation to continue with a task.
 
-[embed video: https://www.youtube.com/watch?v=4lm3QSAbvVs]
+<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/4lm3QSAbvVs">
+</iframe>
 
 In essence, Vygotsky found that learning is connected to the social context in which it occurs. As such, librarians we spoke to have incorporated Vygotsky&#039;s approach by enabling social interaction in libraries. INTS-046 says she designs programming that teaches youth: “...good sportsmanship and respect for each other, socialization, soft skills, and kind of keep them engaged with loving the library and seeing the library as a place that they want to be…”

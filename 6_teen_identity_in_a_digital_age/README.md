@@ -24,7 +24,9 @@ Through selfies, likes, and status updates, the features of many online and mobi
 
 ### A fusion of corporate and personal branding {#a-fusion-of-corporate-and-personal-branding}
 
-[embed video: _Frontline’s_ “[Generation Like](https://www.youtube.com/watch?v=ugaz-LwNPOk)”.]
+<iframe width="740" height="400" border="none" src="https://www.youtube.com/embed/ugaz-LwNPOk">
+</iframe>
+
 
 The importance of branding and the influence of companies may also shape teens’ identity formation. Take, for example, the fusion of corporate and personal branding present on such online platforms as YouTube. Many popular YouTube stars, like Tyler Oakley, use product placement in their videos. This practice raises the following questions: Is this a new trend? Is this fusion of corporate and personal simply an extension of marketing to teens that began in the ‘50s?
 
@@ -36,6 +38,5 @@ A few features of the digital media landscape may illustrate the distinct differ
 
 As companies and marketers use digital media to reach teens, it may be harder for today’s teens to easily evaluate the credibility of online information and content. Designers of new technologies can also influence identity formation. For example, it took Facebook ten years to offer its users with different options for gender identities. The fusion of personal and corporate, tech designers’ values, and the features of online applications and communities can all influence adolescents developing sense of identity, impacting the way they view themselves and the world.
 
-**ADDITIONAL RESOURCES**
-
-*   [Common Sense Media Digital Citizenship Curriculum.](https://www.commonsense.org/education/digital-citizenship)
+<div class="table-format additional-resources"><span class="title"><h5>ADDITIONAL RESOURCES</h5></span>
+<ul><li><a href="https://www.commonsense.org/education/digital-citizenship">Common Sense Media Digital Citizenship Curriculum</a>.</li></ul></div>

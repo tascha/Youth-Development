@@ -1,0 +1,3 @@
+### 4C. Digital media in your library
+
+After reviewing YALSA’s <a href="https://www.chipublib.org/programs-and-partnerships/youmedia/">The Future of Library Services for and with Teens: a Call to Action</a> report and the <a href="https://www.youtube.com/watch?v=NwPQzDsNVPU">YOUmedia learning model</a>, brainstorm some small scale, inexpensive ways to incorporate digital media and makerspace technology into your their library. 

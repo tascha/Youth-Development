@@ -51,8 +51,5 @@ The YALSA report also touches on the [YOUmedia learning model](https://www.chipu
 
 The model now serves as an example of applying Connected Learning principles, exploratory learning, and programming driven by teens’ own interests. As such, many librarians are incorporating learning spaces, like “learning labs” and “makerspaces”, that invite young people to engage in digital and traditional literacy skills development, interact with mentors and peers, and pursue creative projects.
 
-**ADDITIONAL RESOURCES**
-
-*   Being a Responsible Citizen of the Digital World. A collaboration of the GoodPlay Project and Project New Media Literacies
-*   Henry Jenkins; Project New Media Literacies
-*   YALSA (2017). Case Studies: Real-world examples of how libraries are re-envisioning teen services. [http://www.ala.org/yalsa/case-studies-real-world-examples-how-libraries-are-re-envisioning-teen-services](http://www.ala.org/yalsa/case-studies-real-world-examples-how-libraries-are-re-envisioning-teen-services)
+<div class="table-format additional-resources"><span class="title"><h5>ADDITIONAL RESOURCES</h5></span>
+<ul><li>Being a Responsible Citizen of the Digital World. A collaboration of the GoodPlay Project and Project New Media Literacies</li><li>Henry Jenkins; Project New Media Literacies</li><li>YALSA (2017). <a href="http://www.ala.org/yalsa/case-studies-real-world-examples-how-libraries-are-re-envisioning-teen-services">Case Studies: Real-world examples of how libraries are re-envisioning teen services</a>.</li></ul></div>
